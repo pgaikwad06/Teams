@@ -15,6 +15,8 @@ public class TeamController {
 		return myTeams;
 	}
 
+	
+    
 	/*
 	 * @RequestMapping("/") public String getMyteams() {
 	 * 

@@ -9,6 +9,7 @@ public class OpenshiftApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OpenshiftApplication.class, args);
 		System.out.println("Hello!");
+		System.out.println("Hello!!");
 	}
 
 }
