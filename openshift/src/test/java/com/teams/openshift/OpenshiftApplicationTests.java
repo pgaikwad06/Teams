@@ -39,7 +39,7 @@ class OpenshiftApplicationTests {
 		System.out.println(response.getTeams().size());
 		//response.getTeams().forEach(games -> System.out::println);
 		
-		System.out.println("Test comment!!!!");
+		System.out.println("Test comment!");
 
 		// System.out.println(response.get(0).getTeamId().toString());
 		// assert(response.getBody()).equals("");
