@@ -31,5 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-src/test/java/com/teams/openshift/OpenshiftApplicationTests.java
